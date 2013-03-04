@@ -1,0 +1,14 @@
+[[https://code.google.com/p/support/wiki/WikiSyntax|Wiki syntax reference]]
+[[https://code.google.com/p/vimwiki/wiki/Syntax|Vimwiki syntax]]
+
+Vimwiki在_vimrc中的设置:
+{{{
+
+}}}
+
+
+* 换行`<br>`
+* 单行引用一对``
+* 段落引用`{{{ }}}`
+
+
