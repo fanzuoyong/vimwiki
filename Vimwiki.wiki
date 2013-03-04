@@ -1,0 +1,8 @@
+== vimwiki config in vimrc ==
+{{{
+let g:vimwiki_list = [{'path': 'D:/workspace/vimwiki/',
+      \ 'path_html': 'D:\userdata\jqx473\My Documents\GitHub\fanzuoyong.github.com',
+      \ 'html_header': 'D:/workspace/vimwiki/vimwiki_template/header.htm',
+      \ 'html_footer': 'D:/workspace/vimwiki/vimwiki_template/footer.htm',
+      \ 'diary_link_count': 5},]
+}}}

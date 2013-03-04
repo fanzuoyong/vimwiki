@@ -2,4 +2,6 @@
     * My Urgent [[Tasks]] -- things to be done _yesterday_!!!
     * [[Git usage]]
     * [[Wiki syntax]]
+    * [[Vim usage]]
+    * LTE
     * Useful link

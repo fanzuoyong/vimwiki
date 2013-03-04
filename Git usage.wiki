@@ -1,2 +1,3 @@
-most useful command
-git status
+most useful command: `git status`
+
+Set proxy for git: `$ git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080`
