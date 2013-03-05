@@ -2,3 +2,5 @@
 
 [[Vimwiki]]
 
+* go top:`gg`
+* go bottom:`G`
