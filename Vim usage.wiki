@@ -4,3 +4,8 @@
 
 * go top:`gg`
 * go bottom:`G`
+* 全局替换：`%s/xxx/yyy/g` 所有xxx将被替换为yyy
+
+VIM中:
+* 匹配单词左边界:`\<`
+* 匹配单词右边界:`\>`

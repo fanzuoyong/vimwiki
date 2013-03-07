@@ -3,5 +3,9 @@
     * [[Git usage]]
     * [[Wiki syntax]]
     * [[Vim usage]]
+    * [[Regular expression]]
     * LTE
     * Useful link
+
+----
+    * [[Batch files]]
