@@ -4,6 +4,7 @@
     * [[Wiki syntax]]
     * [[Vim usage]]
     * [[Regular expression]]
+    * [[SQL]]
     * LTE
     * Useful link
 

@@ -1,0 +1,10 @@
+[[http://www.w3school.com.cn/sql/|sql教程]]
+
+* 仅列出不同值
+{{{
+select distinct 列名称 from 表名称
+}}}
+* 插入
+{{{
+INSERT INTO table_name (列1, 列2,...) VALUES (值1, 值2,....)
+}}}
